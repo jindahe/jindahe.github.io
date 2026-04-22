@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Boyu Jin | Research & Projects"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Boyu Jin"
-description              : &description "Boyu Jin's personal academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Your Name"
+description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jindahe.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "jindahe/jindahe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Boyu Jin"
-  pronouns         : "he/his"  
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "boyujin@zju.edu.cn" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jindahe"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
